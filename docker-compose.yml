@@ -6,7 +6,7 @@ services:
     depends_on:
       - mlapi
     environment:
-      - MONGO_URI=<mongodb+srv://taskuser:dgi5tszW_RpBbyb@likhitasmarttaskcluster.dgfrjpb.mongodb.net/?retryWrites=true&w=majority&appName=LikhitaSmartTaskCluster>
+      - MONGO_URI=<''>
     restart: always
 
   mlapi:
