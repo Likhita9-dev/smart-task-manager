@@ -1,0 +1,17 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "5000:5000"
+    depends_on:
+      - mlapi
+    environment:
+      - MONGO_URI=<mongodb+srv://taskuser:dgi5tszW_RpBbyb@likhitasmarttaskcluster.dgfrjpb.mongodb.net/?retryWrites=true&w=majority&appName=LikhitaSmartTaskCluster>
+    restart: always
+
+  mlapi:
+    build: ./ML-API
+    ports:
+      - "5001:5001"
+    restart: always
+
