@@ -98,6 +98,23 @@ Response:
   "category": "Personal"
 }
 
+## 📸 Screenshots
+//these are the example links, you can see actual screenshots in my Screenshots folder//
+### 🧠 ML Flask API Running
+![ML Flask](./Screenshots/ML%20Flask%20running-connection%20in%20VS%20code.png)
+
+### 🖥️ Backend Running in VS Code
+![Backend](./Screenshots/Backendrunning-connection-output%20in%20VS%20CODE.png)
+
+### 🌐 Frontend Running
+![Frontend](./Screenshots/Frontend%20running-connection%20in%20VS%20code.png)
+
+### 📊 MongoDB Atlas Collections
+![MongoDB](./Screenshots/MongoDB-test.tasks-Data%20Collections.png)
+
+### ✅ Dashboard - Task Output
+![Dashboard](./Screenshots/dashboard%20UI%20tasks%20output.png)
+
 
 
 ⚠️ Notes and Limitations
