@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 // MongoDB Atlas URI
-const MONGO_URI = 'mongodb+srv://taskuser:dgi5tszW_RpBbyb@likhitasmarttaskcluster.dgfrjpb.mongodb.net/?retryWrites=true&w=majority&appName=LikhitaSmartTaskCluster';
+const MONGO_URI = 'your_mongodb_atlas_connection_string';
 
 // Connect to MongoDB
 mongoose.connect(MONGO_URI, {
