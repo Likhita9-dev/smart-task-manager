@@ -99,7 +99,7 @@ Response:
 }
 
 ## 📸 Screenshots
-//these are the example links, you can see actual screenshots in my Screenshots folder//
+//these are the few main screenshots, you can see all screenshots in my Screenshots folder//
 ### 🧠 ML Flask API Running
 ![ML Flask](./Screenshots/ML%20Flask%20running-connection%20in%20VS%20code.png)
 
